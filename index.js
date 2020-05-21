@@ -7,6 +7,6 @@ var multiply = num1 * num2;
 
 
 var random = Math.random();
-var mod = 24 % 5;
+var mod = 16%6;
 
 var max = Math.max (1,2,3,20);
